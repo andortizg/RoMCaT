@@ -1,6 +1,6 @@
 # RoMCaT
 
-## This PCB version is not yet tested!
+## WARNING: This PCB version is not yet tested!
 
 MSX Rom cartridge for roms up to 64KB
 
