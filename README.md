@@ -1,4 +1,7 @@
 # RoMCaT
+
+## This PCB version is not yet tested!
+
 MSX Rom cartridge for roms up to 64KB
 
 This is yet another PCB design of a ROM cartridg that can hold roms up to 64 KB. Different configuration options regarargind the Z80 page (CS1/CS2/CS12) for 8, 16 and 32 KB ROMS are included using jumpers (/RD option is also available).
@@ -14,8 +17,8 @@ The PCB is compatible with W27C256/W27C512 EEPROMs.
 4) Set A15 jumper for 32 or 64 KB ROM (27C256 or 27C512, respectively)
 
 *** 64 KB ROM with two 32 KB programs (0000 - 80000 / 8000 - FFFF)
-1) Set the A15 jumper to 32 KB
-2) Install the sliding switch to change the ROM page (A15 to Vcc / A15 to ground).
+1) Set the corresponding jumper to 32 KB
+2)  change the ROM page (A15 to Vcc / A15 to ground).
 
 
 # Disclaimer
