@@ -18,7 +18,7 @@ The PCB is compatible with W27C256/W27C512 EEPROMs.
 
 *** 64 KB ROM with two 32 KB programs (0000 - 80000 / 8000 - FFFF)
 1) Set the corresponding jumper to 32 KB
-2)  change the ROM page (A15 to Vcc / A15 to ground).
+2)  change the ROM page (A15 to Vcc / A15 to ground - HI/LO jumper).
 
 
 # Disclaimer
